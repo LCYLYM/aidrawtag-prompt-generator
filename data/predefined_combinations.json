@@ -1,0 +1,350 @@
+[
+  {
+    "name": "动漫风格少女",
+    "tags": [
+      {
+        "main_category": "人物部位",
+        "sub_category": "头部",
+        "tag_en": "anime face",
+        "tag_cn": "动漫脸"
+      },
+      {
+        "main_category": "人物部位",
+        "sub_category": "全身",
+        "tag_en": "beautiful girl",
+        "tag_cn": "美少女"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "卡通",
+        "tag_en": "anime style",
+        "tag_cn": "动漫风格"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "masterpiece",
+        "tag_cn": "杰作"
+      }
+    ]
+  },
+  {
+    "name": "自然风景",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "beautiful landscape",
+        "tag_cn": "美丽风景"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "mountains",
+        "tag_cn": "山脉"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "lake",
+        "tag_cn": "湖泊"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "high quality",
+        "tag_cn": "高质量"
+      }
+    ]
+  },
+  {
+    "name": "科幻城市",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "城市",
+        "tag_en": "futuristic city",
+        "tag_cn": "未来城市"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "科幻",
+        "tag_en": "sci-fi",
+        "tag_cn": "科幻"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "赛博朋克",
+        "tag_en": "cyberpunk",
+        "tag_cn": "赛博朋克"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "detailed",
+        "tag_cn": "细节"
+      }
+    ]
+  },
+  {
+    "name": "写实人像",
+    "tags": [
+      {
+        "main_category": "人物部位",
+        "sub_category": "头部",
+        "tag_en": "realistic face",
+        "tag_cn": "写实脸部"
+      },
+      {
+        "main_category": "人物部位",
+        "sub_category": "全身",
+        "tag_en": "human",
+        "tag_cn": "人类"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "现实主义",
+        "tag_en": "photorealistic",
+        "tag_cn": "照片级写实"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "high detail",
+        "tag_cn": "高细节"
+      }
+    ]
+  },
+  {
+    "name": "水彩艺术",
+    "tags": [
+      {
+        "main_category": "艺术风格",
+        "sub_category": "绘画媒介",
+        "tag_en": "watercolor",
+        "tag_cn": "水彩"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "印象派",
+        "tag_en": "impressionism",
+        "tag_cn": "印象派"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "vibrant colors",
+        "tag_cn": "鲜艳色彩"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "artistic",
+        "tag_cn": "艺术性"
+      }
+    ]
+  },
+  {
+    "name": "海滩日落",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "beach",
+        "tag_cn": "海滩"
+      },
+      {
+        "main_category": "光照",
+        "sub_category": "黄昏",
+        "tag_en": "sunset",
+        "tag_cn": "日落"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "ocean",
+        "tag_cn": "海洋"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "palm trees",
+        "tag_cn": "棕榈树"
+      }
+    ]
+  },
+  {
+    "name": "哥特风格",
+    "tags": [
+      {
+        "main_category": "艺术风格",
+        "sub_category": "特殊",
+        "tag_en": "gothic style",
+        "tag_cn": "哥特风格"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "室内",
+        "tag_en": "gothic architecture",
+        "tag_cn": "哥特式建筑"
+      },
+      {
+        "main_category": "光照",
+        "sub_category": "夜晚",
+        "tag_en": "dark atmosphere",
+        "tag_cn": "黑暗氛围"
+      },
+      {
+        "main_category": "服饰",
+        "sub_category": "特殊",
+        "tag_en": "gothic fashion",
+        "tag_cn": "哥特服饰"
+      }
+    ]
+  },
+  {
+    "name": "校园风格",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "室内",
+        "tag_en": "classroom",
+        "tag_cn": "教室"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "室外",
+        "tag_en": "school campus",
+        "tag_cn": "校园"
+      },
+      {
+        "main_category": "服饰",
+        "sub_category": "制服",
+        "tag_en": "school uniform",
+        "tag_cn": "校服"
+      },
+      {
+        "main_category": "光照",
+        "sub_category": "日光",
+        "tag_en": "warm sunlight",
+        "tag_cn": "温暖阳光"
+      }
+    ]
+  },
+  {
+    "name": "夜间城市",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "城市",
+        "tag_en": "night city",
+        "tag_cn": "夜晚城市"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "城市",
+        "tag_en": "city skyline",
+        "tag_cn": "城市天际线"
+      },
+      {
+        "main_category": "光照",
+        "sub_category": "霓虹",
+        "tag_en": "neon lights",
+        "tag_cn": "霓虹灯"
+      },
+      {
+        "main_category": "光照",
+        "sub_category": "夜晚",
+        "tag_en": "night",
+        "tag_cn": "夜晚"
+      }
+    ]
+  },
+  {
+    "name": "奇幻森林",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "自然",
+        "tag_en": "fantasy forest",
+        "tag_cn": "奇幻森林"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "奇幻",
+        "tag_en": "magical",
+        "tag_cn": "魔法"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "奇幻",
+        "tag_en": "glowing plants",
+        "tag_cn": "发光植物"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "detailed",
+        "tag_cn": "细节"
+      }
+    ]
+  },
+  {
+    "name": "古典油画",
+    "tags": [
+      {
+        "main_category": "艺术风格",
+        "sub_category": "绘画媒介",
+        "tag_en": "oil painting",
+        "tag_cn": "油画"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "现实主义",
+        "tag_en": "classical art",
+        "tag_cn": "古典艺术"
+      },
+      {
+        "main_category": "光照",
+        "sub_category": "柔光",
+        "tag_en": "soft lighting",
+        "tag_cn": "柔和光线"
+      },
+      {
+        "main_category": "质量",
+        "sub_category": "高质量",
+        "tag_en": "intricate details",
+        "tag_cn": "精细细节"
+      }
+    ]
+  },
+  {
+    "name": "太空探索",
+    "tags": [
+      {
+        "main_category": "场景",
+        "sub_category": "太空",
+        "tag_en": "outer space",
+        "tag_cn": "外太空"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "太空",
+        "tag_en": "stars",
+        "tag_cn": "星星"
+      },
+      {
+        "main_category": "场景",
+        "sub_category": "太空",
+        "tag_en": "spaceship",
+        "tag_cn": "宇宙飞船"
+      },
+      {
+        "main_category": "艺术风格",
+        "sub_category": "科幻",
+        "tag_en": "cosmic",
+        "tag_cn": "宇宙的"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6851 @@
+{
+  "人物部位": {
+    "上身": [
+      {
+        "tag_en": "breast_padding",
+        "tag_cn": "胸垫",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "tentacle_sex",
+        "tag_cn": "触手性爱",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "tentacles_under_clothes",
+        "tag_cn": "衣服下的触手",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "bra",
+        "tag_cn": "胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "no bra",
+        "tag_cn": "没穿胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strap_gap",
+        "tag_cn": "吊带胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandeau",
+        "tag_cn": "抹胸比基尼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tubetop",
+        "tag_cn": "直筒式抹胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "budget_sarashi",
+        "tag_cn": "裹胸布",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "budget_sarashi",
+        "tag_cn": "绷带裹胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_curtains",
+        "tag_cn": "乳帘",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strapless_bra",
+        "tag_cn": "无肩带胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "beltbra",
+        "tag_cn": "皮带文胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Ball_bra",
+        "tag_cn": "球形文胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cupless_bikini",
+        "tag_cn": "无罩杯文胸(漏点",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bow bra",
+        "tag_cn": "蝴蝶结胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ruffled_bra",
+        "tag_cn": "褶边胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "frilled_bra",
+        "tag_cn": "花边胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lace_bra",
+        "tag_cn": "蕾丝胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lace-trimmed_bra",
+        "tag_cn": "蕾丝边胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "polka_dot_bra",
+        "tag_cn": "圆斑胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "print_bra",
+        "tag_cn": "印花胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "striped_bra",
+        "tag_cn": "条纹胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bra_peek",
+        "tag_cn": "微微露出胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bra_through_clothes",
+        "tag_cn": "透过衣服可以看到胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bra_lift",
+        "tag_cn": "文胸抬起来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bra_pull",
+        "tag_cn": "文胸拉下来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_bra",
+        "tag_cn": "(前面)解开的胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bar_removed",
+        "tag_cn": "摘下的胸罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Sexy_lingerie",
+        "tag_cn": "露胸的衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_bikini_armor",
+        "tag_cn": "反向比基尼盔甲",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "highleg_panties",
+        "tag_cn": "高腰式内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lowleg_panties",
+        "tag_cn": "低腰式内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hand_in_panties",
+        "tag_cn": "手伸进内裤里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "topless",
+        "tag_cn": "上半身裸露",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "muneate",
+        "tag_cn": "胸甲",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "brooch",
+        "tag_cn": "胸针",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chest_jewel",
+        "tag_cn": "胸前有宝石",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "armpit_sex",
+        "tag_cn": "腋窝性爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tentacles",
+        "tag_cn": "触手",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "consensual_tentacles",
+        "tag_cn": "双方同意的触手",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tentaclejob",
+        "tag_cn": "触手活",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tentacles_in_thighhighs",
+        "tag_cn": "大腿上的触手",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "too_many_tentacles",
+        "tag_cn": "很多触手",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "naizuri_(flatchested_paizuri)",
+        "tag_cn": "平胸乳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_sucking",
+        "tag_cn": "吸奶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_smother",
+        "tag_cn": "洗面奶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "multiple_breast_smother",
+        "tag_cn": "多发性乳房窒息",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breastfeeding",
+        "tag_cn": "通过衣服哺乳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "guided_breast_grab",
+        "tag_cn": "把对方的手抓过来摸自己的胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_sucking",
+        "tag_cn": "吸乳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "（然而ai并不会画手）",
+        "tag_cn": "手指",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arms_behind_back",
+        "tag_cn": "手臂在背后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arms_up",
+        "tag_cn": "手在上面",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "armpits",
+        "tag_cn": "露出腋下",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "handjob",
+        "tag_cn": "手交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_handjob",
+        "tag_cn": "双持手枪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nursing_handjob",
+        "tag_cn": "护士打手枪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reach-around",
+        "tag_cn": "从背后伸手打手枪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "two-handed_handjob",
+        "tag_cn": "双手打手枪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_grab",
+        "tag_cn": "抓乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pectoral_grab",
+        "tag_cn": "抓胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "grabbing_own_breast",
+        "tag_cn": "抓住自己的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "guided_pectoral_grab",
+        "tag_cn": "引导抓胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_fingering",
+        "tag_cn": "肛门指法",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fingering_through_clothes",
+        "tag_cn": "手指通过衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fingering_through_panties",
+        "tag_cn": "手指通过内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_fingering",
+        "tag_cn": "指法后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_masturbation",
+        "tag_cn": "手淫后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "multiple_breast_smother",
+        "tag_cn": "多个乳房窒息",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cooperative_handjob",
+        "tag_cn": "合作打手枪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hands_up_,arms_up",
+        "tag_cn": "举起手",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "paw_pose",
+        "tag_cn": "爪子手",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "flat_chest",
+        "tag_cn": "贫乳(A",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "small_breasts",
+        "tag_cn": "小胸部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "medium_breasts",
+        "tag_cn": "中等胸部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "perky_breasts",
+        "tag_cn": "丰满的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "big_breasts",
+        "tag_cn": "大胸部(D",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "huge_breasts",
+        "tag_cn": "巨乳(E",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "gigantic breasts",
+        "tag_cn": "魔乳(F",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "between_breasts",
+        "tag_cn": "乳房之间",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bouncing_breasts",
+        "tag_cn": "弹跳的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "framed_breasts",
+        "tag_cn": "乳房被框住",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breasts_out",
+        "tag_cn": "乳房出来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underbust",
+        "tag_cn": "勒出下胸围的服装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "between_breasts",
+        "tag_cn": "乳沟里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strap_between_breasts",
+        "tag_cn": "勒在乳房之间的带子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clothes_between_breasts",
+        "tag_cn": "衣服勒在乳沟里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hanging_breasts",
+        "tag_cn": "(俯身)双乳下垂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sagging_breasts",
+        "tag_cn": "(因俯身而)下垂的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_expansion",
+        "tag_cn": "丰胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_rest",
+        "tag_cn": "搁着胸部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "covering_breasts",
+        "tag_cn": "遮着乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breasts_outside",
+        "tag_cn": "露出的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "one_breast_out",
+        "tag_cn": "露出一只乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bursting_breasts",
+        "tag_cn": "乳房外扩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "perky breasts",
+        "tag_cn": "包不住的巨乳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "framed_breasts",
+        "tag_cn": "极具立体感的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bouncing_breasts",
+        "tag_cn": "乳摇",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "unaligned_breasts",
+        "tag_cn": "左右乳房动态不一",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chocolate_on_breasts",
+        "tag_cn": "胸上的巧克力",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mole_on_breast",
+        "tag_cn": "乳房上有痣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_breast_size",
+        "tag_cn": "贫乳化|爆乳化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arm_under_breasts",
+        "tag_cn": "托胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arms_under_breasts",
+        "tag_cn": "双手托胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_conscious",
+        "tag_cn": "对胸部在意",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_grab",
+        "tag_cn": "揉胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_hold",
+        "tag_cn": "抱着胸部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "托着胸部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_poke",
+        "tag_cn": "戳胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_press",
+        "tag_cn": "挤压胸部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "从两侧挤胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_suppress",
+        "tag_cn": "手放在乳房上方",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_breasts",
+        "tag_cn": "射在胸上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hand_between_breasts",
+        "tag_cn": "手放在胸前",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breasts_on_glass",
+        "tag_cn": "胸压玻璃",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bare_shoulders",
+        "tag_cn": "裸露的肩膀",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "narrow_waist",
+        "tag_cn": "妖娆的腰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mound_of_venus",
+        "tag_cn": "腰窝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "implied_fingering",
+        "tag_cn": "暗示指法",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_bondage",
+        "tag_cn": "乳房绑缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bound_wrists",
+        "tag_cn": "绑住手腕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bound_arms",
+        "tag_cn": "绑住手臂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_bondage",
+        "tag_cn": "乳房束缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Monoglove",
+        "tag_cn": "束缚手套",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_smother",
+        "tag_cn": "乳房窒息",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_breasts",
+        "tag_cn": "射在乳房上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_upper_body",
+        "tag_cn": "射在上半身体上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_fingers",
+        "tag_cn": "射在手指上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stealth_masturbation",
+        "tag_cn": "隐形手淫",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bust_cup",
+        "tag_cn": "胸围杯",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_pump",
+        "tag_cn": "吸奶器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chastity_bra",
+        "tag_cn": "贞操文胸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "handcuffs",
+        "tag_cn": "手铐",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pillory",
+        "tag_cn": "颈手枷",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_arm",
+        "tag_cn": "手臂上的绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "surgery",
+        "tag_cn": "手术",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bubble_tea_challenge",
+        "tag_cn": "不用手喝珍珠奶茶挑战",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "looking_at_breasts",
+        "tag_cn": "瞄着乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arm_tattoo",
+        "tag_cn": "手臂有纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_tattoo",
+        "tag_cn": "胸部纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chest_tattoo",
+        "tag_cn": "胸部有纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "shoulder_tattoo",
+        "tag_cn": "肩部纹身",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "头部": [
+      {
+        "tag_en": "gag",
+        "tag_cn": "堵嘴",
+        "weight": 1.5,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_pull",
+        "tag_cn": "拉乳头",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_penetration",
+        "tag_cn": "乳头插入",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "sitting_on_face",
+        "tag_cn": "坐在脸上",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "tongue_out",
+        "tag_cn": "吐舌头",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "butt_plug_tail",
+        "tag_cn": "尾巴插头带尾巴",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "bit_gag",
+        "tag_cn": "位堵嘴",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "head_bump",
+        "tag_cn": "头撞",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "halterneck",
+        "tag_cn": "绕颈系带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "holding_underwear",
+        "tag_cn": "手持内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underwear",
+        "tag_cn": "内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underwear_only",
+        "tag_cn": "只穿着内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Transparent_underwear",
+        "tag_cn": "透明内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wear torn intricate black high slit cheongsams with pantyhose and white fur trim elbow gloves, in the ominous bedroom ,highres, <lora:durandalBrightKnightExcelsis_v10:1>,",
+        "tag_cn": "露出乳头的衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Pearl_thong",
+        "tag_cn": "珍珠丁字裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cat_ear_panties",
+        "tag_cn": "猫耳造型内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bear_panties",
+        "tag_cn": "熊印花内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties_on_head",
+        "tag_cn": "头上套着内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underwear_only",
+        "tag_cn": "只穿内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaids_on_nipples",
+        "tag_cn": "乳头创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_ball_wear",
+        "tag_cn": "佩戴拉珠",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chest_hair",
+        "tag_cn": "胸毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Male_Underwear",
+        "tag_cn": "男士内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "top-down_bottom-up",
+        "tag_cn": "脸朝下屁股朝上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "skull_fucking",
+        "tag_cn": "头交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hairjob",
+        "tag_cn": "发交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ear_sex",
+        "tag_cn": "耳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "penis_in_eye",
+        "tag_cn": "眼交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nosejob",
+        "tag_cn": "鼻交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tentacle_gagged",
+        "tag_cn": "触手堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_tweak",
+        "tag_cn": "玩弄乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "head_between_breasts",
+        "tag_cn": "头埋在胸里|洗面奶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "smelling_underwear",
+        "tag_cn": "闻到内衣的味道",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pillow_sex",
+        "tag_cn": "枕头自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "teddy_bear_sex",
+        "tag_cn": "泰迪熊自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_tweak",
+        "tag_cn": "拧乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_swap",
+        "tag_cn": "用嘴交换精液",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "finger_in_another's_mouth",
+        "tag_cn": "手指在别人的嘴里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipples",
+        "tag_cn": "乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "没画出乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "looming nipples",
+        "tag_cn": "隐约可见的乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_slip",
+        "tag_cn": "乳头滑出",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "a",
+        "tag_cn": "大乳头|长乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "puffy_nipples",
+        "tag_cn": "大乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "inverted_nipples",
+        "tag_cn": "内陷乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dark_nipples",
+        "tag_cn": "深色的乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "necktie_between_breasts",
+        "tag_cn": "领带贴(夹)在乳沟里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breasts_on_head",
+        "tag_cn": "胸部走光",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breasts_on_head",
+        "tag_cn": "压在头上的乳房",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hair_over_breasts",
+        "tag_cn": "头发披在胸上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "breast_envy",
+        "tag_cn": "胸围嫉妒(表情",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pubic_hair_peek",
+        "tag_cn": "阴毛窥视",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "[(pink and purple background:1.1)::5],,{1girl},{young},(((full body))),{{{delicate fingers}}}, whole body, white socks, from below, bright green eyes, {hands on waist}, {{{smiling}}},{{hair in double buns}}",
+        "tag_cn": "翘臀",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pink hair, blue eyes, 16 years old, long haircut, headband, small breasts size,",
+        "tag_cn": "屁股缝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_hair",
+        "tag_cn": "肛毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "neck",
+        "tag_cn": "脖子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "penis_on_face",
+        "tag_cn": "阴茎贴着脸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "rei_no_himo",
+        "tag_cn": "(乳头)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sitting on face",
+        "tag_cn": "顔面騎乗",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tape_gag",
+        "tag_cn": "胶带贴嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "assertive_female",
+        "tag_cn": "自信的女性(女性带头)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_torture",
+        "tag_cn": "折磨乳头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sitting_on_face",
+        "tag_cn": "坐在脸上（脸坐）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_in_mouth",
+        "tag_cn": "射在嘴里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_tongue",
+        "tag_cn": "射在舌头上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_in_mouth",
+        "tag_cn": "口爆",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_hair",
+        "tag_cn": "射在头发上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_clamps",
+        "tag_cn": "乳头夹",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_dildo",
+        "tag_cn": "双头龙",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "butt_plug",
+        "tag_cn": "尾巴插头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo_gag",
+        "tag_cn": "假阳具堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator on nipple",
+        "tag_cn": "乳头上的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cleave_gag",
+        "tag_cn": "劈开堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panty_gag",
+        "tag_cn": "内裤堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "plug_gag",
+        "tag_cn": "插入堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ring_gag",
+        "tag_cn": "环形堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tape_gag",
+        "tag_cn": "胶带堵嘴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nose_hook",
+        "tag_cn": "鼻钩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "blush",
+        "tag_cn": "脸红",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "condoms_in_mouth",
+        "tag_cn": "含着套",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bruised_eye",
+        "tag_cn": "瘀伤的眼睛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "head_bump",
+        "tag_cn": "失踪的眼睛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nosebleed",
+        "tag_cn": "鼻血",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_face",
+        "tag_cn": "绷带在脸上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_cheek",
+        "tag_cn": "脸颊上的绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_ear",
+        "tag_cn": "耳朵上的绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_forehead",
+        "tag_cn": "额头上的绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_nose",
+        "tag_cn": "绷带贴在鼻子上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandage_on_face",
+        "tag_cn": "绷带在脸上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandage_over_one_eye",
+        "tag_cn": "绷带包一只眼睛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "eyepatch",
+        "tag_cn": "眼罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_censor",
+        "tag_cn": "心形马赛克",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hair_censor",
+        "tag_cn": "用头发遮住打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "character_censor",
+        "tag_cn": "用人脸打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_censor",
+        "tag_cn": "乳头打了码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_eye_color",
+        "tag_cn": "异瞳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_hair_color",
+        "tag_cn": "发色变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_hair_length",
+        "tag_cn": "头发长度变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_hairstyle",
+        "tag_cn": "发型变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_headwear",
+        "tag_cn": "头饰变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_legwear",
+        "tag_cn": "腿部穿着变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_heart",
+        "tag_cn": "会话气泡里带爱心",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart-shape_thought_bubble",
+        "tag_cn": "心形思想泡泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arrow_(symbol)",
+        "tag_cn": "箭头（符号）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heartbeat",
+        "tag_cn": "心跳|表现出心动的文字",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nose_bubble",
+        "tag_cn": "鼻涕泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chocolate_heart",
+        "tag_cn": "心形巧克力",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart",
+        "tag_cn": "心|心形|爱心",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_ahoge",
+        "tag_cn": "心形呆毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_choker",
+        "tag_cn": "心形项圈",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_hands",
+        "tag_cn": "双手比心",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_hands_duo",
+        "tag_cn": "两个人一起用手比心",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_in_mouth",
+        "tag_cn": "嘴里画着爱心|心形化的舌头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_pasties",
+        "tag_cn": "心形乳贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_pillow",
+        "tag_cn": "心形枕头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_tail",
+        "tag_cn": "心形尾巴|心形尾尖|尾巴摆出心形",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart-shaped_box",
+        "tag_cn": "心形盒子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart-shaped_eyewear",
+        "tag_cn": "心形眼镜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart-shaped_lock",
+        "tag_cn": "心形锁",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart-shaped_pupils",
+        "tag_cn": "心形瞳孔|心形眼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": ":>=",
+        "tag_cn": "口交脸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "naughty_face",
+        "tag_cn": "调皮脸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tongue",
+        "tag_cn": "舌头",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tears",
+        "tag_cn": "眼泪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tears",
+        "tag_cn": "流泪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ear_piercing",
+        "tag_cn": "耳钉",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "facial_tattoo",
+        "tag_cn": "脸部有纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heart_tattoo",
+        "tag_cn": "心形纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "blonde_pubic_hair",
+        "tag_cn": "金色阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "colored_pubic_hair",
+        "tag_cn": "阴毛颜色",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "excessive_pubic_hair",
+        "tag_cn": "极浓密的阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "male_pubic_hair",
+        "tag_cn": "男性的阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mismatched_pubic_hair",
+        "tag_cn": "头发和阴毛颜色不一",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "moderate_pubic_hair",
+        "tag_cn": "中分的阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pubic_hair",
+        "tag_cn": "阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pubic_hair_peek",
+        "tag_cn": "从衣物里露出一部分阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stray_pubic_hair",
+        "tag_cn": "沾着阴毛|掉落的阴毛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mole_under_eye",
+        "tag_cn": "眼角有痣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mole_under_mouth",
+        "tag_cn": "嘴角有痣|美人痣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_",
+        "tag_cn": "脸上贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_forehead",
+        "tag_cn": "额头贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_nose",
+        "tag_cn": "鼻梁上贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaids_on_nipples",
+        "tag_cn": "乳头贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "乳头类型",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      }
+    ],
+    "下身": [
+      {
+        "tag_en": "smelling_feet",
+        "tag_cn": "闻脚",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "cooperative_footjob",
+        "tag_cn": "合作足交",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "going commando",
+        "tag_cn": "下半身真空",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "内裤挂在单腿上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties_around_one_ankle",
+        "tag_cn": "内裤褪到脚踝上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bottomless",
+        "tag_cn": "下半身裸露",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "highleg_leotard",
+        "tag_cn": "高开衩紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "highleg_leotard",
+        "tag_cn": "高开衩的连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Thighhighs",
+        "tag_cn": "长筒袜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leg_lock/upright_straddle",
+        "tag_cn": "跨坐式",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "kneepit_sex",
+        "tag_cn": "跪下性行为",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "kneepit_sex",
+        "tag_cn": "打桩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "legs_folded",
+        "tag_cn": "大腿小腿折起来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spread_legs",
+        "tag_cn": "张开的大腿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spread_toes",
+        "tag_cn": "张开脚趾",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "toe_scrunch",
+        "tag_cn": "蜷着脚趾",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "soles",
+        "tag_cn": "脚底",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "thigh_sex",
+        "tag_cn": "大腿性爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "legjob",
+        "tag_cn": "腿交(可能无效",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "legjob",
+        "tag_cn": "双足足交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "paizuri_on_lap",
+        "tag_cn": "腿上的乳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "feet",
+        "tag_cn": "脚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spread_leg",
+        "tag_cn": "双腿向上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "叉开腿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "feet_up",
+        "tag_cn": "张开双腿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "脚向上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leg_grab",
+        "tag_cn": "抓腿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_suspended_congress",
+        "tag_cn": "反向抓双脚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "licking_foot",
+        "tag_cn": "舔脚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "foot_worship",
+        "tag_cn": "足部崇拜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "simulated_footjob",
+        "tag_cn": "模拟足交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "footjob",
+        "tag_cn": "足交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_footjob",
+        "tag_cn": "双足交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "two-footed_footjob",
+        "tag_cn": "双足交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cock_in_thighhigh",
+        "tag_cn": "插在过膝袜里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ass_visible_through_thighs",
+        "tag_cn": "正面可见的屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "illustration, very wide shot,",
+        "tag_cn": "臀部通风口",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bare_hips",
+        "tag_cn": "裸臀",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wide_hips",
+        "tag_cn": "沙漏型身材|安产型",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bound_ankles",
+        "tag_cn": "绑住脚踝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bound_legs",
+        "tag_cn": "绑住腿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "thigh_pouch",
+        "tag_cn": "腿上绑着工具包",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Gimp_suit",
+        "tag_cn": "束缚腿套",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_in_thigh_highs",
+        "tag_cn": "震动在过膝袜里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_in_leg_garter",
+        "tag_cn": "吊袜带中的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_in_thighhighs",
+        "tag_cn": "大腿上的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_in_thigh_strap",
+        "tag_cn": "大腿带中的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "whip",
+        "tag_cn": "鞭子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_knee",
+        "tag_cn": "膝盖上的绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_leg",
+        "tag_cn": "腿上的绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leg_tattoo",
+        "tag_cn": "腿部纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mole_on_thigh",
+        "tag_cn": "大腿上有痣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_knee",
+        "tag_cn": "膝盖贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_leg",
+        "tag_cn": "腿上贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "全身": [
+      {
+        "tag_en": "expose/bare/nake/nude",
+        "tag_cn": "裸露",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bodysuit",
+        "tag_cn": "紧身衣(全身)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "black_latex_bodysuit",
+        "tag_cn": "连体黑色乳胶衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "impossible_bodysuit",
+        "tag_cn": "人体彩绘般紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ribbed_bodysuit",
+        "tag_cn": "棱纹紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "torn_bodysuit",
+        "tag_cn": "棱纹紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "impossible_bodysuit",
+        "tag_cn": "人体彩绘般的紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bodysuit_under_clothes",
+        "tag_cn": "紧身衣裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Bodystocking",
+        "tag_cn": "紧身袜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bodysuit",
+        "tag_cn": "紧身连衣裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "building_sex",
+        "tag_cn": "建筑自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leaning_forward",
+        "tag_cn": "身体前倾",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "男性身体",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "body_writing",
+        "tag_cn": "身上写字",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_body",
+        "tag_cn": "射在身体上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Eating_and_Drinking_from_Body",
+        "tag_cn": "身体的饮食",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "steaming_body",
+        "tag_cn": "发情",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "body_writing",
+        "tag_cn": "身上有字",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeking_out",
+        "tag_cn": "偷窥(的姿态)",
+        "weight": 1.1,
+        "description": ""
+      }
+    ]
+  },
+  "人物动作": {
+    "跳跃": [
+      {
+        "tag_en": "",
+        "tag_cn": "塞着跳蛋且穿着内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bruce_lee's_jumpsuit",
+        "tag_cn": "李小龙款连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "egg_vibrator",
+        "tag_cn": "跳蛋",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator",
+        "tag_cn": "跳蛋",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "行走": [
+      {
+        "tag_en": "wardrobe_malfunction",
+        "tag_cn": "走光",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pantyshot",
+        "tag_cn": "内裤走光",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "walking",
+        "tag_cn": "行走",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "rope_walking",
+        "tag_cn": "批抵在绳子上沿绳走",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "precum_string",
+        "tag_cn": "先走液丝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "walk-in",
+        "tag_cn": "步入式",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "舞蹈": [
+      {
+        "tag_en": "leotard",
+        "tag_cn": "紧身连身衣裤|芭蕾服",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "站立": [
+      {
+        "tag_en": "standing_sex",
+        "tag_cn": "站立后入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_upright_straddle",
+        "tag_cn": "反向直立跨骑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "standing",
+        "tag_cn": "站立",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "erect_clitoris",
+        "tag_cn": "膨胀的阴蒂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "erection",
+        "tag_cn": "勃起",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "erection_under_clothes",
+        "tag_cn": "老二立帐篷",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "misunderstanding",
+        "tag_cn": "误会",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "坐姿": [
+      {
+        "tag_en": "cowgirl_position",
+        "tag_cn": "女上正骑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_cowgirl_position",
+        "tag_cn": "反向女牛仔位置",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sitting_on",
+        "tag_cn": "颜面骑乘",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "卧姿": [
+      {
+        "tag_en": "implied_yuri",
+        "tag_cn": "隐含的同性行为",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lying",
+        "tag_cn": "向前趴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "implied_cunnilingus",
+        "tag_cn": "暗示舔阴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "implied_sex",
+        "tag_cn": "暗示性交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "implied_fellatio",
+        "tag_cn": "暗示口交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "implied_futanari",
+        "tag_cn": "隐含的富塔纳里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "flying_sweatdrops",
+        "tag_cn": "飞扬的汗珠",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "亲吻": [
+      {
+        "tag_en": "anilingus",
+        "tag_cn": "吻肛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_kiss",
+        "tag_cn": "接吻后",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "打架": [
+      {
+        "tag_en": "spanked",
+        "tag_cn": "打屁股",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "censored",
+        "tag_cn": "打码的",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "self_fisting",
+        "tag_cn": "自己打自己",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spanked",
+        "tag_cn": "被拍打过的屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "egg_vibrator",
+        "tag_cn": "打蛋器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "punching",
+        "tag_cn": "击打",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "kicking",
+        "tag_cn": "踢",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_kick",
+        "tag_cn": "胯部踢",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "blur_censor",
+        "tag_cn": "模糊打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tail_censor",
+        "tag_cn": "用尾巴遮住打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "convenient_censoring",
+        "tag_cn": "简单巧妙的打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "identity_censor",
+        "tag_cn": "眼部打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pointless_censoring",
+        "tag_cn": "敷衍的打码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tongue_piercing",
+        "tag_cn": "打舌钉",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "拥抱": [
+      {
+        "tag_en": "huge_penis",
+        "tag_cn": "大阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "huge_dildo",
+        "tag_cn": "巨大的假阳具",
+        "weight": 1.1,
+        "description": ""
+      }
+    ]
+  },
+  "服饰": {
+    "上装": [
+      {
+        "tag_en": "halter_top",
+        "tag_cn": "露背装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crop_top",
+        "tag_cn": "露脐装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_coat",
+        "tag_cn": "敞开式外套",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_hoodie",
+        "tag_cn": "敞开的连帽衫",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_jacket",
+        "tag_cn": "敞开的夹克",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_shirt",
+        "tag_cn": "敞开的衬衫",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "straitjacket",
+        "tag_cn": "紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "girl_on_top",
+        "tag_cn": "女上体位",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "straitjacket",
+        "tag_cn": "拘束服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "paneled cardigan sweater",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "格子开襟毛衣",
+        "weight": 1.0,
+        "description": ""
+      }
+    ],
+    "内衣": [
+      {
+        "tag_en": "bra_strap",
+        "tag_cn": "内衣肩带",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "lace-trimmed_panties",
+        "tag_cn": "蕾丝边内裤",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "public_vibrator",
+        "tag_cn": "公共振动器",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "比基尼当内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "under",
+        "tag_cn": "运动内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "training_bra",
+        "tag_cn": "运动内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bow_bra",
+        "tag_cn": "无罩杯比基尼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lingerie",
+        "tag_cn": "女式内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chemise",
+        "tag_cn": "女式宽内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Camisole",
+        "tag_cn": "女式无袖宽内衣(小可愛)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Babydoll",
+        "tag_cn": "情趣内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cat_lingerie",
+        "tag_cn": "猫系内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cat_cutout",
+        "tag_cn": "猫咪内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bridal_lingerie",
+        "tag_cn": "新娘内衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "white_panties",
+        "tag_cn": "内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties",
+        "tag_cn": "内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "micro_panties",
+        "tag_cn": "布料很少的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Bikini_briefs",
+        "tag_cn": "比基尼三角裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "开档内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "string_bikini",
+        "tag_cn": "系绳内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "side-tie_panties",
+        "tag_cn": "侧边系带内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fundoshi",
+        "tag_cn": "丁字内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bow_panties",
+        "tag_cn": "带蝴蝶结的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lace_panties",
+        "tag_cn": "蕾丝内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "frilled_panties",
+        "tag_cn": "花边内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "back-print_panties",
+        "tag_cn": "背面有图案的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "front-print_panties",
+        "tag_cn": "正面有图案的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "plaid_panties",
+        "tag_cn": "格子呢内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "polka_dot_panties",
+        "tag_cn": "圆斑内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "print_panties",
+        "tag_cn": "印花内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strawberry_panties",
+        "tag_cn": "草莓内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "striped_panties",
+        "tag_cn": "条纹内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vertical-striped_panties",
+        "tag_cn": "竖条纹内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "adjusting_panties",
+        "tag_cn": "拨内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panty_lift",
+        "tag_cn": "把内裤往上扯",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panty_pull",
+        "tag_cn": "内裤拉下来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties_aside",
+        "tag_cn": "内裤挪到一边",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties_removed",
+        "tag_cn": "内裤已经脱下来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "trefoil",
+        "tag_cn": "展示内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wedgie",
+        "tag_cn": "抓内裤提起",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "holding_panties",
+        "tag_cn": "拿着内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "penis_in_panties",
+        "tag_cn": "阴茎勾着内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties_under_buruma",
+        "tag_cn": "穿在灯笼裤里的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wet_panties",
+        "tag_cn": "湿内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "torn_panties",
+        "tag_cn": "破损的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "backless_panties",
+        "tag_cn": "露背内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panty_peek",
+        "tag_cn": "微微露出内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_panties",
+        "tag_cn": "无裆内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_panties",
+        "tag_cn": "底切",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "frilled_panties",
+        "tag_cn": "褶边内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bow_panties",
+        "tag_cn": "蝴蝶结内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_under_panties",
+        "tag_cn": "内裤下振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "panties_under_pantyhose",
+        "tag_cn": "裤袜里面的内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "其他内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Boyshort_panties",
+        "tag_cn": "男孩短内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Boxers",
+        "tag_cn": "平角裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Boxer_briefs",
+        "tag_cn": "平角内裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sports_bra, (panties_removed:1.2), (holding_panties:1.2), pussy, shy,",
+        "tag_cn": "晃屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator",
+        "tag_cn": "带振动的自慰器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo_under_panties",
+        "tag_cn": "内裤下的假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator",
+        "tag_cn": "振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bunny_vibrator",
+        "tag_cn": "兔子振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "butterfly_vibrator",
+        "tag_cn": "蝴蝶振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "remote_control_vibrator",
+        "tag_cn": "遥控振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_under_clothes",
+        "tag_cn": "衣服下面的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_under_panties",
+        "tag_cn": "内裤下的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_under_pantyhose",
+        "tag_cn": "连裤袜下的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_in_anus",
+        "tag_cn": "肛门振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_on_penis",
+        "tag_cn": "阴茎上的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator",
+        "tag_cn": "阴茎上的振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vibrator_under_clothes",
+        "tag_cn": "衣服下的振动器",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "连体装": [
+      {
+        "tag_en": "reverse_bunnysuit",
+        "tag_cn": "反向兔女郎套装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "assless_swimsuit",
+        "tag_cn": "无屁股泳衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_swimsuit",
+        "tag_cn": "无裆泳衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "plugsuit",
+        "tag_cn": "EVA紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "translucent_bunnysuit",
+        "tag_cn": "半透明兔女郎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crossdressing",
+        "tag_cn": "变装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "gimp_suit",
+        "tag_cn": "瘸子套装",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "配饰": [
+      {
+        "tag_en": "G-string",
+        "tag_cn": "超细丁字裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "naked_scarf",
+        "tag_cn": "裸体围巾",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tribadism_(scissoring)",
+        "tag_cn": "磨豆腐（剪刀）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "splashes of color, colors mashing, Colorful paint explosion pattern, cityscape background, looking to the side, ascending stairs,",
+        "tag_cn": "小屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cuckolding",
+        "tag_cn": "戴绿帽子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cock_ring",
+        "tag_cn": "屌环",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cock_ring",
+        "tag_cn": "锁精环",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "syringe",
+        "tag_cn": "注射器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mosaic_censoring",
+        "tag_cn": "马赛克",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "下装": [
+      {
+        "tag_en": "buruma_aside",
+        "tag_cn": "短裤掰到一边",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "buruma_pull",
+        "tag_cn": "短裤拉下来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "backless_pants",
+        "tag_cn": "露背裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_pants",
+        "tag_cn": "无裆裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_shorts",
+        "tag_cn": "敞开的短裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pants_under_shorts",
+        "tag_cn": "短裤里面的内裤",
+        "weight": 1.1,
+        "description": ""
+      }
+    ],
+    "鞋袜": [
+      {
+        "tag_en": "shoejob",
+        "tag_cn": "鞋交",
+        "weight": 1.1,
+        "description": ""
+      }
+    ]
+  },
+  "场景": {
+    "自然": [
+      {
+        "tag_en": "sarong",
+        "tag_cn": "沙滩浴巾（沙龙）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_seam",
+        "tag_cn": "裆缝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "surrounding sea of clouds",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "周围的云海",
+        "weight": 1.0,
+        "description": ""
+      }
+    ]
+  },
+  "艺术风格": {},
+  "质量": {
+    "高质量": [
+      {
+        "tag_en": "(masterpiece:1.3), (the best quality:1.2), (super fine illustrations:1.2), (Masterpiece), high quality, high detail, ((unparalleled masterpiece, best quality, perfect artwork)),",
+        "tag_cn": "大屁股",
+        "weight": 1.1,
+        "description": ""
+      }
+    ]
+  },
+  "其他": {
+    "未分类": [
+      {
+        "tag_en": "anal_beads",
+        "tag_cn": "肛珠",
+        "weight": 1.5,
+        "description": ""
+      },
+      {
+        "tag_en": "amputee",
+        "tag_cn": "截肢者",
+        "weight": 1.5,
+        "description": ""
+      },
+      {
+        "tag_en": "spaghetti_strap",
+        "tag_cn": "细肩带",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "装饰",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "pasties",
+        "tag_cn": "乳贴",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "belly_chain",
+        "tag_cn": "脐链",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "diaper",
+        "tag_cn": "尿布",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "sex_machine",
+        "tag_cn": "性爱机器",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "clothed_after_sex",
+        "tag_cn": "性爱后穿衣服",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "bisexual_female",
+        "tag_cn": "双性恋女性",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "cunnilingus",
+        "tag_cn": "舔阴",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "after_insertion",
+        "tag_cn": "插入后",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "cooperative_fellatio",
+        "tag_cn": "合作口交",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "guided_penetration",
+        "tag_cn": "引导插入",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "insertion",
+        "tag_cn": "插入物",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "stomach_bulge",
+        "tag_cn": "肚子隆起",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "ejaculating_while_penetrated",
+        "tag_cn": "插入时射精",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "food_insertion",
+        "tag_cn": "食物插入",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_tail",
+        "tag_cn": "肛尾",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "penis",
+        "tag_cn": "阴茎",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "ejaculation",
+        "tag_cn": "射精",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "pregnant",
+        "tag_cn": "怀孕",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "enema",
+        "tag_cn": "灌肠",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "wooden_horse",
+        "tag_cn": "木马",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "too_many_sex_toys",
+        "tag_cn": "性玩具太多",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "blindfold",
+        "tag_cn": "眼罩",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "ball_gag",
+        "tag_cn": "口球",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "blood",
+        "tag_cn": "血液",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "bleeding",
+        "tag_cn": "流血的",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "bruise",
+        "tag_cn": "挫伤",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "stab",
+        "tag_cn": "刺",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid",
+        "tag_cn": "创可贴",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "pubic_tattoo",
+        "tag_cn": "淫纹",
+        "weight": 1.3,
+        "description": ""
+      },
+      {
+        "tag_en": "strap_pull",
+        "tag_cn": "拉带子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strap_slip",
+        "tag_cn": "背带滑下",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "unleashed",
+        "tag_cn": "带子松开",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Babydoll",
+        "tag_cn": "情趣睡衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "revealing_clothes",
+        "tag_cn": "暴露的衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_outfit",
+        "tag_cn": "反向服装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dudou",
+        "tag_cn": "肚兜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fundoshi",
+        "tag_cn": "兜裆布",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "日式丁字裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Strapless_bottom",
+        "tag_cn": "无带下装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wet_clothes",
+        "tag_cn": "湿衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "soggy_clothes",
+        "tag_cn": "湿透的衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ropiness",
+        "tag_cn": "粘性的丝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clothed_female_nude_male",
+        "tag_cn": "女穿衣，男裸体",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Ass_Cutout",
+        "tag_cn": "屁股切口",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Crotchless",
+        "tag_cn": "无裆",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_pantyhose",
+        "tag_cn": "无裆连裤袜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_leotard",
+        "tag_cn": "无裆紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_bloomers",
+        "tag_cn": "无裆灯笼裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotchless_buruma",
+        "tag_cn": "无裆灯笼裤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "敞开的衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_robe",
+        "tag_cn": "敞开的长袍",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_collar",
+        "tag_cn": "解开的衣领",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "open_kimono",
+        "tag_cn": "敞开的和服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "naked_dudou",
+        "tag_cn": "裸体肚兜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leotard",
+        "tag_cn": "紧身衣(及臀)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "latex",
+        "tag_cn": "乳胶（材质）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "black_leotard",
+        "tag_cn": "黑色紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "see-through_leotard",
+        "tag_cn": "透明及臀紧身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "playboy_bunny_leotard",
+        "tag_cn": "兔女郎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reversed_bunny",
+        "tag_cn": "逆兔女郎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "impossible_leotard",
+        "tag_cn": "人体彩绘般的连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ribbed_leotard",
+        "tag_cn": "棱纹连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "side-tie_leotard",
+        "tag_cn": "侧边系带连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strapless_leotard",
+        "tag_cn": "无肩带连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "thong_leotard",
+        "tag_cn": "丁字式连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "torn_leotard",
+        "tag_cn": "破损的连身衣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "garter_straps",
+        "tag_cn": "吊袜带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Garter_belt",
+        "tag_cn": "吊袜带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Fishnets",
+        "tag_cn": "渔网",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "see-through",
+        "tag_cn": "透明可见的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "latex",
+        "tag_cn": "乳胶的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leather",
+        "tag_cn": "皮制的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crease",
+        "tag_cn": "起皱的(有褶的)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "layered",
+        "tag_cn": "分层的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Lace",
+        "tag_cn": "花边",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fur_trim",
+        "tag_cn": "皮草饰边",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Maebari",
+        "tag_cn": "遮羞布",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Penis_sheath",
+        "tag_cn": "阴茎鞘",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strapless",
+        "tag_cn": "无肩带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sounding",
+        "tag_cn": "音效符号",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_rope",
+        "tag_cn": "裆部勒着绳子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_plate",
+        "tag_cn": "裆部覆盖物",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_pussy",
+        "tag_cn": "私处创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Jockstrap",
+        "tag_cn": "护身三角绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nsfw",
+        "tag_cn": "性爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sex",
+        "tag_cn": "做爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hetero",
+        "tag_cn": "异性恋",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clothed sex",
+        "tag_cn": "穿着衣服做爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_sex",
+        "tag_cn": "正要做爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "遮挡了结合处",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underwater_sex",
+        "tag_cn": "水中做爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sex_from_behind",
+        "tag_cn": "从背后做爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "missionary",
+        "tag_cn": "传教士体位",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clothed_sex",
+        "tag_cn": "骑乘位",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spitroast",
+        "tag_cn": "前后夹攻",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "69",
+        "tag_cn": "69式",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "doggystyle",
+        "tag_cn": "狗爬式",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "arched_back",
+        "tag_cn": "弓背",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "folded",
+        "tag_cn": "折叠",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "yiwen",
+        "tag_cn": "素股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "navel_sex",
+        "tag_cn": "肚脐性爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "buttjob",
+        "tag_cn": "屁股交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_buttjob",
+        "tag_cn": "双屁股交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stealth_sex",
+        "tag_cn": "隐奸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sex_machine",
+        "tag_cn": "机械奸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sex_toy",
+        "tag_cn": "性爱玩具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "group_sex",
+        "tag_cn": "群P|群交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sextuplets",
+        "tag_cn": "六人组",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_sex",
+        "tag_cn": "事后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "同性行为",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "yuri",
+        "tag_cn": "百合（女-女）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tribadism",
+        "tag_cn": "互剪",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strap-on",
+        "tag_cn": "女性使用假屌",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pegging",
+        "tag_cn": "女性使用假屌",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "paizuri_(tittyfuck)",
+        "tag_cn": "乳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "paizuri_over_clothes",
+        "tag_cn": "衣服上的乳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "paizuri_under_clothes",
+        "tag_cn": "衣服下的乳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "母乳喂养",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lactation",
+        "tag_cn": "母乳|搾乳|喷乳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "oral",
+        "tag_cn": "口腔",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fellatio",
+        "tag_cn": "口交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "irrumatio",
+        "tag_cn": "口交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spitroast",
+        "tag_cn": "口腔喷精",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_fellatio",
+        "tag_cn": "即将的口交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "oral_invitation",
+        "tag_cn": "口腔邀请",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "autocunnilingus",
+        "tag_cn": "自动舔阴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "testicle_sucking",
+        "tag_cn": "吸睾丸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "licking_testicle",
+        "tag_cn": "舔睾丸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "smelling",
+        "tag_cn": "闻",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "smelling_clothes",
+        "tag_cn": "闻衣服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "smelling_pantyhose",
+        "tag_cn": "闻连裤袜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anus",
+        "tag_cn": "肛门",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_suspended_congress",
+        "tag_cn": "反向火车便当式",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_insertion",
+        "tag_cn": "肛门物体插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "female_masturbation",
+        "tag_cn": "女性自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mutual_masturbation",
+        "tag_cn": "相互自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tianhuaban",
+        "tag_cn": "偷偷自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clothed_masturbation",
+        "tag_cn": "穿衣服自慰",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_rub",
+        "tag_cn": "胯部摩擦",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "table_sex",
+        "tag_cn": "援桌骑士",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_grab",
+        "tag_cn": "抓裆部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ass_grab",
+        "tag_cn": "抓屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "torso_grab",
+        "tag_cn": "抓躯干",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "guided_crotch_grab",
+        "tag_cn": "引导抓裆",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "挤奶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "groping",
+        "tag_cn": "摸索",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "prostate_milking",
+        "tag_cn": "前列腺挤奶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fisting",
+        "tag_cn": "拳击",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_fisting",
+        "tag_cn": "肛门拳击",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "caressing_testicles",
+        "tag_cn": "爱抚睾丸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sex",
+        "tag_cn": "事后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_sex",
+        "tag_cn": "性爱后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_anal",
+        "tag_cn": "肛门后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_fellatio",
+        "tag_cn": "口交后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_frottage",
+        "tag_cn": "摩擦后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_oral",
+        "tag_cn": "口服后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_paizuri",
+        "tag_cn": "乳交之后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_rape",
+        "tag_cn": "强奸后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_urethral",
+        "tag_cn": "尿道后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_vaginal",
+        "tag_cn": "事后的阴道特写",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "afterglow",
+        "tag_cn": "事后余韵",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "afterimage",
+        "tag_cn": "残像",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Group_sex",
+        "tag_cn": "淫趴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "threesome",
+        "tag_cn": "三人行",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fff_threesome",
+        "tag_cn": "三个female,其他同理",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "orgy",
+        "tag_cn": "银趴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "group_sex",
+        "tag_cn": "群交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "gangbang",
+        "tag_cn": "轮奸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_gangbang",
+        "tag_cn": "即将到来的轮奸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_penetration",
+        "tag_cn": "双重贯穿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "triple_penetration",
+        "tag_cn": "三重贯穿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "love_train",
+        "tag_cn": "爱情列车",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_spitroast",
+        "tag_cn": "交换唾沫",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_grinding",
+        "tag_cn": "团队合作",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "双磨(两人磨一根)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "二穴插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_vaginal",
+        "tag_cn": "双插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "triple_penetration",
+        "tag_cn": "三穴插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "multiple_insertions",
+        "tag_cn": "多重插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_anal",
+        "tag_cn": "双肛门",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "triple_anal",
+        "tag_cn": "三重肛门",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cooperative_paizuri",
+        "tag_cn": "合作乳交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "multiple_penis_fellatio",
+        "tag_cn": "多阴茎口交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "其他动作",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bisexual_(female)",
+        "tag_cn": "双性恋(女性)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "q",
+        "tag_cn": "抚摸睾丸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "grabbing_from_behind",
+        "tag_cn": "从后面抓",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "defloration",
+        "tag_cn": "处女/破瓜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_penetration",
+        "tag_cn": "即将插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_vaginal",
+        "tag_cn": "即将插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "large_insertion",
+        "tag_cn": "巨大插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cervical_penetration",
+        "tag_cn": "宫颈穿透",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "urethral_insertion",
+        "tag_cn": "尿道插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "object_insertion",
+        "tag_cn": "物品插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vaginal_object_insertion",
+        "tag_cn": "阴道物品插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal_object_insertion",
+        "tag_cn": "肛门物体插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tail_insertion",
+        "tag_cn": "尾巴插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "butt_plug",
+        "tag_cn": "肛塞",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underboob",
+        "tag_cn": "南半球",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sideboob",
+        "tag_cn": "側乳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ribs",
+        "tag_cn": "肋骨",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "no_nipples",
+        "tag_cn": "",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lactation",
+        "tag_cn": "哺乳期",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "areolae",
+        "tag_cn": "乳晕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "light_areolae",
+        "tag_cn": "有光泽的乳晕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "large_areolae",
+        "tag_cn": "大乳晕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "areola_slip",
+        "tag_cn": "乳晕滑出",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dark_areolae",
+        "tag_cn": "深色的乳晕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cleavage",
+        "tag_cn": "乳沟",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cleavage_cutout",
+        "tag_cn": "乳沟镂空",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vaginal",
+        "tag_cn": "阴道",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pussy",
+        "tag_cn": "小穴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "no_pussy",
+        "tag_cn": "没画小穴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "partially_visible_vulva",
+        "tag_cn": "可以看见一部分外阴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "gaping",
+        "tag_cn": "可以看见一部分外阴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spread_vaginal",
+        "tag_cn": "掰开的阴部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "between_labia",
+        "tag_cn": "阴唇之间",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "labia",
+        "tag_cn": "阴唇",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "long_labia",
+        "tag_cn": "长阴唇",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dark_labia",
+        "tag_cn": "黑阴唇",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoris",
+        "tag_cn": "阴蒂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoral_hood",
+        "tag_cn": "阴蒂包皮",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "perineum",
+        "tag_cn": "会阴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pussy_juice",
+        "tag_cn": "爱液",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pussy_juice_trail",
+        "tag_cn": "爱液痕迹",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "female_ejaculation",
+        "tag_cn": "潮吹",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "爱液水坑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pussy_juice_drip_through_clothes",
+        "tag_cn": "爱液滴在衣服上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "excessive_pussy_juice",
+        "tag_cn": "阴部爱液过多",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "artificial_vagina",
+        "tag_cn": "z8",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandaid_on_pussy",
+        "tag_cn": "阴部贴着创可贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ofuda_on_pussy",
+        "tag_cn": "阴部贴着御札",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoral_stimulation",
+        "tag_cn": "玩弄阴蒂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ass",
+        "tag_cn": "屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "(flat illustration:1.2), (line drawing:1.2),",
+        "tag_cn": "肛门",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anus",
+        "tag_cn": "菊花",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch",
+        "tag_cn": "裤裆",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spread_ass",
+        "tag_cn": "摊开屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ass_support",
+        "tag_cn": "托着屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ass-to-ass",
+        "tag_cn": "屁股贴屁股",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "groin",
+        "tag_cn": "腹股沟|耻丘",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "groin_tendon",
+        "tag_cn": "腹股沟肌腱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "anal",
+        "tag_cn": "肛门,肛交",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "after_anal",
+        "tag_cn": "肛交后",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nude",
+        "tag_cn": "裸体",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "completely_nude",
+        "tag_cn": "完全裸体",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "shiny_skin",
+        "tag_cn": "有光泽的皮肤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "skindentation",
+        "tag_cn": "皮肤的凹陷",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "skin_tight",
+        "tag_cn": "衣服很紧,勾勒曲线",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "muscular",
+        "tag_cn": "肌肉发达",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "muscular_female",
+        "tag_cn": "肌肉女",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "skinny",
+        "tag_cn": "很瘦的身材",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wet",
+        "tag_cn": "湿身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "collarbone",
+        "tag_cn": "锁骨",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "covered_collarbone",
+        "tag_cn": "有衣物裹住的锁骨",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "underboob_cutout",
+        "tag_cn": "衣服有下半乳开口",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "midriff",
+        "tag_cn": "腹部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "belly",
+        "tag_cn": "腹部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "midriff_peek",
+        "tag_cn": "微微露出腹部",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "covered_navel",
+        "tag_cn": "隐约入目的肚脐",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "navel",
+        "tag_cn": "肚脐",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "navel_cutout",
+        "tag_cn": "服装上有露出肚脐的开口",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "grinding",
+        "tag_cn": "性器摩擦",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "frottage",
+        "tag_cn": "性摩擦",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_rape",
+        "tag_cn": "正要被强奸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "imminent_vaginal",
+        "tag_cn": "快要插入了",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "invisible_penis",
+        "tag_cn": "隐去阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "巨大阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "foreskin",
+        "tag_cn": "包皮",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "veiny_penis",
+        "tag_cn": "静脉凸起的阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "internal_cumshot",
+        "tag_cn": "内射",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "linked_piercing",
+        "tag_cn": "连环穿孔",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dark_penis",
+        "tag_cn": "深色的阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo",
+        "tag_cn": "假阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "phallic_symbol",
+        "tag_cn": "用来暗示阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "disembodied_penis",
+        "tag_cn": "断掉的阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "multiple_penises",
+        "tag_cn": "阴茎包围网",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fat mons",
+        "tag_cn": "肥逼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "捆绑play",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tied_up",
+        "tag_cn": "捆绑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bondage",
+        "tag_cn": "捆绑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "frogtie",
+        "tag_cn": "青蛙捆绑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "suspension",
+        "tag_cn": "悬吊绑缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "shibari_over_clothes",
+        "tag_cn": "着衣绑缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bound",
+        "tag_cn": "绑住",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bondage",
+        "tag_cn": "束缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "shibari",
+        "tag_cn": "绳缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "predicament_bondage",
+        "tag_cn": "困境束缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bound_together",
+        "tag_cn": "捆绑在一起",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Blindfold",
+        "tag_cn": "眼罩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tape",
+        "tag_cn": "胶带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "force-feeding",
+        "tag_cn": "机械固定",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "suspension",
+        "tag_cn": "吊具杆",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spreader_bar",
+        "tag_cn": "z",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bondage_outfit",
+        "tag_cn": "束缚服",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "调教",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bdsm",
+        "tag_cn": "绑缚与调教",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "femdom",
+        "tag_cn": "调教（女性统治）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "slave",
+        "tag_cn": "奴隶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "doggystyle",
+        "tag_cn": "狗狗式趴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "viewer_holding_leash",
+        "tag_cn": "第一人称握缰绳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leash",
+        "tag_cn": "牵绳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clothed_female_nude_male",
+        "tag_cn": "穿衣女性裸体男性",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "torture",
+        "tag_cn": "酷刑",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoris_torture",
+        "tag_cn": "折磨阴蒂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tickle_torture",
+        "tag_cn": "挠痒痒折磨",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wax_play",
+        "tag_cn": "滴蜡游戏",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "humiliation",
+        "tag_cn": "羞辱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tally",
+        "tag_cn": "计数",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "neglect_play",
+        "tag_cn": "放置play",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "public_use",
+        "tag_cn": "公交车",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ball_busting",
+        "tag_cn": "爆球",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Smother",
+        "tag_cn": "窒息",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "asphyxiation",
+        "tag_cn": "窒息",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "asphyxiation",
+        "tag_cn": "窒息play",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strangling",
+        "tag_cn": "勒死",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Cum_Play",
+        "tag_cn": "cum_play",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum",
+        "tag_cn": "胶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_silk",
+        "tag_cn": "精丝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bukkake",
+        "tag_cn": "集体颜射",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "public_use",
+        "tag_cn": "肉便器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cumdump",
+        "tag_cn": "洨滴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_bath",
+        "tag_cn": "洨浴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_pool",
+        "tag_cn": "胶池",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_inflation",
+        "tag_cn": "胶充气",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "doggystyle",
+        "tag_cn": "射在屁股里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_in_clothes",
+        "tag_cn": "在衣服里射精",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_in_cup",
+        "tag_cn": "射在杯子里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum in throat",
+        "tag_cn": "射在喉咙里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_in_pussy",
+        "tag_cn": "射在阴户",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_in_urethra",
+        "tag_cn": "在尿道射精",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "facial",
+        "tag_cn": "颜射",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_facial",
+        "tag_cn": "颜射",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "autofacial",
+        "tag_cn": "自我颜射",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_tongue",
+        "tag_cn": "舔精",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_ass",
+        "tag_cn": "射在屁股上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_pussy",
+        "tag_cn": "射在阴户上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_clothes",
+        "tag_cn": "射在衣服上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_glasses",
+        "tag_cn": "射在眼镜上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cum_on_food",
+        "tag_cn": "射在食物上",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pull_out",
+        "tag_cn": "拉出",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "felching",
+        "tag_cn": "从阴道吸精液",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "gokkun",
+        "tag_cn": "吞精",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Ageplay",
+        "tag_cn": "年龄play",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "adult_baby",
+        "tag_cn": "成人宝宝",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "doggystyle",
+        "tag_cn": "萝莉/正太",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "toddlercon",
+        "tag_cn": "幼儿控",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mature_female",
+        "tag_cn": "成熟女性",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Animal_play",
+        "tag_cn": "动物play",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leash_pull",
+        "tag_cn": "拉皮带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pet_play",
+        "tag_cn": "宠物游戏",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "human_dog",
+        "tag_cn": "人类狗",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pony_play",
+        "tag_cn": "小马游戏",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "暴露癖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "exhibitionism",
+        "tag_cn": "暴露癖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "doggystyle",
+        "tag_cn": "穿衣性爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "public_indecency",
+        "tag_cn": "公开猥亵",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "public_nudity",
+        "tag_cn": "公开裸露",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "zenra",
+        "tag_cn": "曾拉",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stealth_sex",
+        "tag_cn": "隐形性爱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cheating",
+        "tag_cn": "作弊",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "netorare",
+        "tag_cn": "不贞行为/NTR/戴绿帽",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "prostitution",
+        "tag_cn": "卖淫",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "public_use",
+        "tag_cn": "公共使用",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "voyeurism",
+        "tag_cn": "窥淫癖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "caught",
+        "tag_cn": "被抓到",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "偷窥",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Gender_Play_and_Intersex",
+        "tag_cn": "性别游戏",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "乙子之子",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "reverse_trap",
+        "tag_cn": "反向陷阱",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "futanari",
+        "tag_cn": "富塔纳里",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "full-package_futanari",
+        "tag_cn": "全套二成",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "futa_with_female",
+        "tag_cn": "扶她与女性",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "futa_with_futa",
+        "tag_cn": "扶她与扶她",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "futa_with_male",
+        "tag_cn": "扶她与男性",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "male_futanari",
+        "tag_cn": "男二成",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "no_testicles",
+        "tag_cn": "无睾丸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Incest",
+        "tag_cn": "乱伦",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "used_condom_on_penis",
+        "tag_cn": "阴茎上用过的避孕套",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "condom left inside",
+        "tag_cn": "避孕套留在里面",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "used_condom",
+        "tag_cn": "用过的避孕套",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "`",
+        "tag_cn": "花朵",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nantaimori",
+        "tag_cn": "南台森",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nyotaimori",
+        "tag_cn": "娘太森",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wakamezake",
+        "tag_cn": "若美酒",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "animal_insertion",
+        "tag_cn": "动物插入",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "human_furniture",
+        "tag_cn": "人性化家具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "forniphilia",
+        "tag_cn": "猿癖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "human_toilet",
+        "tag_cn": "人厕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Mecha_on_girl",
+        "tag_cn": "女孩身上的机甲",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "birth",
+        "tag_cn": "出生",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "impregnation",
+        "tag_cn": "浸渍",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "unbirthing",
+        "tag_cn": "分娩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "selfcest",
+        "tag_cn": "自选",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "vore",
+        "tag_cn": "吞人",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Extreme'_Fetishes",
+        "tag_cn": "极端恋物癖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Scat_and_Urination",
+        "tag_cn": "粪便和排尿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "scat",
+        "tag_cn": "粪便",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeing",
+        "tag_cn": "撒尿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "drinking_pee",
+        "tag_cn": "喝尿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeing_on_viewer",
+        "tag_cn": "金色淋浴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "在观众身上撒尿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "have_to_pee",
+        "tag_cn": "不得不小便",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeing_self",
+        "tag_cn": "peeing",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Mutilation",
+        "tag_cn": "残缺",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "guro",
+        "tag_cn": "猎奇",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_amputee",
+        "tag_cn": "双截肢者",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "quadruple_amputee",
+        "tag_cn": "四重截肢者",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "triple_amputee",
+        "tag_cn": "三重截肢者",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leash",
+        "tag_cn": "宠物链",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo",
+        "tag_cn": "假屌",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "artificial_vagina",
+        "tag_cn": "人工阴道",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hitachi_magic_wand",
+        "tag_cn": "仙女棒",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo",
+        "tag_cn": "人造阴茎",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "plug_gag",
+        "tag_cn": "插入的口球",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "artificial_vagina",
+        "tag_cn": "人造阴道",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tenga",
+        "tag_cn": "腾加",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "aneros",
+        "tag_cn": "前列腺按摩器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo",
+        "tag_cn": "假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "double_dildo",
+        "tag_cn": "双假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dragon_dildo",
+        "tag_cn": "龙_假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "horse_dildo",
+        "tag_cn": "马_假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spiked_dildo",
+        "tag_cn": "带刺的假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "strap-on",
+        "tag_cn": "绑带式",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "suction_cup_dildo",
+        "tag_cn": "吸盘假阳具",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo_riding",
+        "tag_cn": "假阳具_骑术",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mask_challenge_(meme)",
+        "tag_cn": "面具挑战（模因）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "dildo_harness",
+        "tag_cn": "假阳具线束",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "prostate_massager",
+        "tag_cn": "前列腺按摩器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoris_pump",
+        "tag_cn": "泵",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoris_pump",
+        "tag_cn": "阴蒂泵",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sounding",
+        "tag_cn": "听起来",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "catheter",
+        "tag_cn": "导管",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "urethral_beads",
+        "tag_cn": "尿道珠",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hitachi_magic_wand",
+        "tag_cn": "日立魔杖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "riding_machine",
+        "tag_cn": "遥控振动器",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sybian",
+        "tag_cn": "西班",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bondage_outfit",
+        "tag_cn": "束缚服装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chain",
+        "tag_cn": "链",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spr",
+        "tag_cn": "肚脐链",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chastity_belt",
+        "tag_cn": "贞操带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chastity_cage",
+        "tag_cn": "贞操笼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Clamp",
+        "tag_cn": "钳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoris_clamp",
+        "tag_cn": "钳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_clamps",
+        "tag_cn": "夹",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tongue_clamp",
+        "tag_cn": "舌夹",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "collar",
+        "tag_cn": "衣领",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cuffs",
+        "tag_cn": "袖口",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "shackles",
+        "tag_cn": "束缚",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "hobble",
+        "tag_cn": "架",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bit_gag",
+        "tag_cn": "咬竹子口球",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leash",
+        "tag_cn": "皮带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "clitoris_leash",
+        "tag_cn": "皮带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "leash_on_penis",
+        "tag_cn": "阴茎上的皮带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "nipple_leash",
+        "tag_cn": "皮带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "piercing",
+        "tag_cn": "穿孔",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tag_group:piercings",
+        "tag_cn": "标签组：穿孔",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stocks",
+        "tag_cn": "存货",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "rope",
+        "tag_cn": "绳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "crotch_rope",
+        "tag_cn": "裆绳",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sounding",
+        "tag_cn": "发声",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spreader_bar",
+        "tag_cn": "吊具杆",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "riding_crop",
+        "tag_cn": "骑马作物",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "aphrodisiac",
+        "tag_cn": "春药",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lotion",
+        "tag_cn": "洗剂",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lotion_bottle",
+        "tag_cn": "乳液瓶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "lube",
+        "tag_cn": "润滑油",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "angel_wings",
+        "tag_cn": "天使翅膀",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pegging",
+        "tag_cn": "用夹子夹住楔子钉住",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "judas_cradle",
+        "tag_cn": "犹大摇篮",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "blood_on_bandages",
+        "tag_cn": "绷带上的血",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cuts",
+        "tag_cn": "切伤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "deep_wound",
+        "tag_cn": "很深的伤口",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "scar",
+        "tag_cn": "瘢痕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "scratches",
+        "tag_cn": "划痕",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stitches",
+        "tag_cn": "缝针",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "scrape",
+        "tag_cn": "刮",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sprain",
+        "tag_cn": "扭伤",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "impaled",
+        "tag_cn": "刺穿",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "severed_limb",
+        "tag_cn": "断肢",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "track_marks",
+        "tag_cn": "轨道标记",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "覆盖物",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bandages",
+        "tag_cn": "绷带",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sarashi",
+        "tag_cn": "萨拉希",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sling_(medical)",
+        "tag_cn": "吊索（医疗）",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Medical_service",
+        "tag_cn": "医疗服务",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "prosthesis",
+        "tag_cn": "假肢",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Doctor",
+        "tag_cn": "医生",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Nurse",
+        "tag_cn": "护士",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Hospital",
+        "tag_cn": "医院",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "first_aid",
+        "tag_cn": "急救",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "intravenous_drip",
+        "tag_cn": "静脉滴注",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pill",
+        "tag_cn": "药丸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "drugs",
+        "tag_cn": "药物",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "guro",
+        "tag_cn": "诡异",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "organs",
+        "tag_cn": "器官",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pain",
+        "tag_cn": "疼痛",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "battle",
+        "tag_cn": "战斗",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "cunt_punt",
+        "tag_cn": "屄",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wrestling",
+        "tag_cn": "摔角",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "uncensored",
+        "tag_cn": "未审核的/无码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bar_censor",
+        "tag_cn": "条状马赛克",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "novelty_censor",
+        "tag_cn": "恶搞的马赛克",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "soap_censor",
+        "tag_cn": "肥皂泡马赛克",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "steam_censor",
+        "tag_cn": "蒸汽马赛克|雾气马赛克",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "light_censor",
+        "tag_cn": "圣光",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "uncensored",
+        "tag_cn": "无修正",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_color",
+        "tag_cn": "异色",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_costume",
+        "tag_cn": "角色换装",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_form",
+        "tag_cn": "形态变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "f",
+        "tag_cn": "肤色变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_weapon",
+        "tag_cn": "武器变化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "alternate_wings",
+        "tag_cn": "不同的翅膀",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "speed_lines",
+        "tag_cn": "速度线",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sound_effects",
+        "tag_cn": "音效",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "QR_code",
+        "tag_cn": "二维码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bar_code",
+        "tag_cn": "条形码",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "blank_speech_bubble",
+        "tag_cn": "空话泡泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_anger_vein",
+        "tag_cn": "表发怒的会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_ellipsis",
+        "tag_cn": "会话气泡里带省略号",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_exclamation_mark",
+        "tag_cn": "会话气泡里带感叹号",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_interrobang",
+        "tag_cn": "会话气泡里出现\"!?\"",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_musical_note",
+        "tag_cn": "表哼歌的会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_object",
+        "tag_cn": "会话气泡里出现指代物",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_question_mark",
+        "tag_cn": "表疑惑的会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_squiggle",
+        "tag_cn": "表不满和发牢骚的会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_sweatdrop",
+        "tag_cn": "表(流汗)无语的会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "speech_bubble",
+        "tag_cn": "讲话泡泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "thought_bubble",
+        "tag_cn": "思想泡泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_exclamation_mark",
+        "tag_cn": "口语感叹号",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "spoken_question_mark",
+        "tag_cn": "口语问号",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "beamed_eighth_notes",
+        "tag_cn": "八分音符",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "air_bubble",
+        "tag_cn": "气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bubble",
+        "tag_cn": "泡泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "bubble_tea",
+        "tag_cn": "珍珠奶茶",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "soap_bubbles",
+        "tag_cn": "泡泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "speech_bubble",
+        "tag_cn": "对话框|会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "thought_bubble",
+        "tag_cn": "体现内心想法的会话气泡",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "chinese_text",
+        "tag_cn": "中文文本",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "blank_stare",
+        "tag_cn": "无主的眼神",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "眼里冒爱心",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "星形项圈",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "star_of_david",
+        "tag_cn": "六芒星",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "star_pasties",
+        "tag_cn": "星形乳贴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "star-shaped_pupils",
+        "tag_cn": "星星眼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "starfish",
+        "tag_cn": "星星眼",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sexually_suggestive",
+        "tag_cn": "性暗示",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "fucked_silly",
+        "tag_cn": "操傻",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "ahegao",
+        "tag_cn": "阿黑颜",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "torogao",
+        "tag_cn": "快乐到融化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "saliva",
+        "tag_cn": "唾液",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "saliva_trail",
+        "tag_cn": "唾液痕迹",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "angry",
+        "tag_cn": "生气的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sad",
+        "tag_cn": "伤心",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "scared",
+        "tag_cn": "害怕的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "rape",
+        "tag_cn": "强奸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "wince",
+        "tag_cn": "畏缩",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "heavy_breathing",
+        "tag_cn": "喘粗气",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sweating_profusely",
+        "tag_cn": "大汗淋漓",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tally",
+        "tag_cn": "在身上计数",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sweating",
+        "tag_cn": "出汗",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "suggestive_fluid",
+        "tag_cn": "可疑液体",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "navel_piercings",
+        "tag_cn": "肚脐钉",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "deep_skin",
+        "tag_cn": "角色的另一面(多指色情)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "navel_piercing",
+        "tag_cn": "脐钉",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "back_tattoo",
+        "tag_cn": "背部纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "barcode_tattoo",
+        "tag_cn": "条形码纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "number_tattoo",
+        "tag_cn": "编号纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "stomach_tattoo",
+        "tag_cn": "腹部纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "tattoo",
+        "tag_cn": "纹身",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "Visible_signs",
+        "tag_cn": "可见标志",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "menstruation",
+        "tag_cn": "经期",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "sick",
+        "tag_cn": "生病的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "guro",
+        "tag_cn": "畸形",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mole",
+        "tag_cn": "痣",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "melting",
+        "tag_cn": "融化",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeing",
+        "tag_cn": "撒尿|失禁",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "moaning",
+        "tag_cn": "呻吟",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "mixed_bathing",
+        "tag_cn": "混浴",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeking",
+        "tag_cn": "偷窥",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "peeping",
+        "tag_cn": "偷窥(强调视角)",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "petting",
+        "tag_cn": "抚摸",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "piercing",
+        "tag_cn": "穿洞",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "pinching",
+        "tag_cn": "掐",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "playing",
+        "tag_cn": "在玩耍的",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "trembling",
+        "tag_cn": "颤抖",
+        "weight": 1.1,
+        "description": ""
+      },
+      {
+        "tag_en": "podium",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "展示台",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "sheer fabrics",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "薄纱面料",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "fluffy",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "毛绒绒",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "high precision",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "fine luster",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "高精度",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "细腻光泽",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "灯光",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "工作室照明",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "周围的盆景、树",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "package design for cosmetics tubes",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "",
+        "tag_cn": "化妆品管包装设计",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "completely nude",
+        "tag_cn": "完全赤裸",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "big_belly",
+        "tag_cn": "西瓜肚",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "c",
+        "tag_cn": "完全裸露",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "sound effects",
+        "tag_cn": "声效画面效果(和肚子凸起结合奇效)",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "puffy 浮肿型",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "inverted 内凹",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "unilateral inverter 一凸一凹",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "bumpy 点点型",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "protruding 突出型",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      },
+      {
+        "tag_en": "flat 扁平型",
+        "tag_cn": "",
+        "weight": 1.0,
+        "description": ""
+      }
+    ]
+  }
+}
