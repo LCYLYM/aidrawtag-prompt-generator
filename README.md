@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/版本-1.0.0-blue)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
+![img](https://github.com/LCYLYM/aidrawtag-prompt-generator/blob/main/showimg/e4be52e0e15193b736bb1364c14d473.png)
 > 📝 深夜coding，突发奇想做出来的小工具。当你对着AI画图软件发呆，不知道输入什么提示词时，这个工具会是你的救星！
 
 ## ⚠️ 友情提示 ⚠️
